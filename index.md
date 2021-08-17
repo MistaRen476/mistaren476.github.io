@@ -1,6 +1,3 @@
-# Aryan Chanda's Portfolio
-_An Aspiring Programmer_
-
 ## Courses
 * Learn Python 3 - Codecademy
 * Python for Data Science and AI - IBM
