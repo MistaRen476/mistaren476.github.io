@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Aryan Chanda's Portfolio
+_An Aspiring Programmer_
 
-You can use the [editor on GitHub](https://github.com/MistaRen476/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Courses
+* Learn Python 3 - Codecademy
+* Python for Data Science and AI - IBM
+* Introduction to Web Design - John Hopkins Center for Talented Youth
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
+After getting substantial programming experience, I began to create projects to hone my skills and increase my knowledge of areas I had previously not explored, such as servers, encryption, and artificial intelligence
 
-### Markdown
+## [Project 1: Account Manager]()
+This project taught me how to hash and encrypt data, ways of storing credentials, and was my first standalone application. It securely stores account details for later use.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [Project 2: File Sharing Application]()
+When I made this application, I had been working on migrating some of my computer's files onto another device, and I was finding it irritating to go between the devices with a USB drive whenever I needed to move some files. This app creates an HTTP server on the user's device which can be accessed through the web browser of other devices on the network. Any files placed in a specific folder on the server device can be then downloaded on other devices, as long as the app stays open on the server.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MistaRen476/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## [Project 3: Desktop Assistant]()
+This is my largest project to date. It uses artificial intelligence and natural language recognition to recognize what a user was trying to say, and perform the appropriate function. Some of its many functions include:
+* Launching apps
+* Downloading apps
+* Getting stock values, recipes, weather, music, and headlines
+* Retrieving the definition of a word
+* Shutting down the computer
+* Creating reminders
+Developing this application taught me how to use Selenium to get data from webpages, manage large amounts of data, and more.
