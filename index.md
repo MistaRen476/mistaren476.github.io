@@ -15,7 +15,7 @@ This project taught me how to hash and encrypt data, ways of storing credentials
 When I made this application, I had been working on migrating some of my computer's files onto another device, and I was finding it irritating to go between the devices with a USB drive whenever I needed to move some files. This app creates an HTTP server on the user's device which can be accessed through the web browser of other devices on the network. Any files placed in a specific folder on the server device can be then downloaded on other devices, as long as the app stays open on the server.
 
 ## [Project 3: Desktop Assistant]()
-This is my largest project to date. It uses artificial intelligence and natural language recognition to recognize what a user was trying to say, and perform the appropriate function. Some of its many functions include:
+This is my largest project to date. It uses artificial intelligence and natural language recognition to recognize what a user was trying to say, and perform the appropriate function. Some of its functions include:
 * Launching apps
 * Downloading apps
 * Getting stock values, recipes, weather, music, and headlines
