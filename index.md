@@ -22,4 +22,5 @@ This is my largest project to date. It uses artificial intelligence and natural 
 * Retrieving the definition of a word
 * Shutting down the computer
 * Creating reminders
+
 Developing this application taught me how to use Selenium to get data from webpages, manage large amounts of data, and more.
